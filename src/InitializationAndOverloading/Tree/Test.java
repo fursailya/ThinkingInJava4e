@@ -1,4 +1,6 @@
-package InitializationAndOverloading;
+package InitializationAndOverloading.Tree;
+
+import InitializationAndOverloading.Tree.Tree;
 
 /**
  * Created by ghost on 01.11.16.
